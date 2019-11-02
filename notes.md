@@ -13,6 +13,7 @@ Sites:
   https://coderbyte.com/challenges
   https://www.interviewcake.com/
   https://edabit.com/
+  https://www.vettery.com/tech?utm_source=newsletter&utm_medium=garysguide&utm_term=tech&utm_content=grouped&utm_campaign=ad-92113
   Others: Hackerrank, Leetcode, Exercism, Codewars, triplebyte
   Apply to jobs on Hackerrank
   
