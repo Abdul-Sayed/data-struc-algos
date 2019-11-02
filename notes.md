@@ -8,9 +8,11 @@ Books:
   Refactoring by Martin Fowler
 
 Sites:
+  https://www.interviewbit.com/
   https://leetcode.com/interview/ 
   https://coderbyte.com/challenges
   https://www.interviewcake.com/
+  https://edabit.com/
   Others: Hackerrank, Leetcode, Exercism, Codewars, triplebyte
   Apply to jobs on Hackerrank
   
