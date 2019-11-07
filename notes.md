@@ -1,4 +1,12 @@
 Tip: 
+
+Dont applt to companies that ask these questions:
+
+https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs?blocks=hide
+
+https://github.com/poteto/hiring-without-whiteboards/blob/master/README.md
+
+
 Tech companies like Google, Microsoft, Amazon test on difficult Data Structure and Algorith problems
 Banks like Goldman, Morgan Stanley or JP Morgan check your application development skills.
 
