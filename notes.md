@@ -10,6 +10,9 @@ https://github.com/poteto/hiring-without-whiteboards/blob/master/README.md
 Tech companies like Google, Microsoft, Amazon test on difficult Data Structure and Algorith problems
 Banks like Goldman, Morgan Stanley or JP Morgan check your application development skills.
 
+Youtube: 
+https://www.youtube.com/user/mycodeschool
+
 Books: 
   Introduction to Algorithms by Thomas H. Cormen
   POODR by Sandi Metz
