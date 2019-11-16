@@ -18,6 +18,9 @@ Books:
   POODR by Sandi Metz
   Refactoring by Martin Fowler
 
+Courses:
+  https://online-learning.harvard.edu/course/cs50-introduction-computer-science
+  
 Sites:
   https://interviewing.io/signup
   https://www.interviewbit.com/
