@@ -20,7 +20,17 @@ Books:
 
 Courses:
   https://online-learning.harvard.edu/course/cs50-introduction-computer-science
+
+Tutorials:
+https://www.khanacademy.org/computing/computer-science
+https://learn.co/tracks/computer-science
   
+Simple Challenges:
+https://rosettacode.org/wiki/Category:Simple
+https://www.coderbyte.com/challenges
+https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&beta=false
+https://www.freecodecamp.org/learn/
+
 Sites:
   https://interviewing.io/signup
   https://www.interviewbit.com/
