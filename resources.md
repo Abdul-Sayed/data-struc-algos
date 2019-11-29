@@ -32,6 +32,9 @@ https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&beta=false
 https://www.freecodecamp.org/learn/
 
 Sites:
+  https://edabit.com/
+  https://www.pramp.com/#/
+  https://codesignal.com/
   https://interviewing.io/signup
   https://www.interviewbit.com/
   https://app.codility.com/
