@@ -11,7 +11,9 @@ Tech companies like Google, Microsoft, Amazon test on difficult Data Structure a
 Banks like Goldman, Morgan Stanley or JP Morgan check your application development skills.
 
 Youtube: 
+https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb   //=> MIT undergrad course
 https://www.youtube.com/user/mycodeschool
+https://www.youtube.com/watch?v=v4cd1O4zkGw&list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt&index=5   //=> HackerRank Tutorials
 
 Books: 
   Introduction to Algorithms by Thomas H. Cormen
@@ -22,14 +24,18 @@ Courses:
   https://online-learning.harvard.edu/course/cs50-introduction-computer-science
 
 Tutorials:
-https://www.khanacademy.org/computing/computer-science
-https://learn.co/tracks/computer-science
+  https://www.khanacademy.org/computing/computer-science
+  https://learn.co/tracks/computer-science
+
+Practice under pressure - solve interview problems in front of a peer
+  https://www.pramp.com/#/sign-up
   
 Simple Challenges:
-https://rosettacode.org/wiki/Category:Simple
-https://www.coderbyte.com/challenges
-https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&beta=false
-https://www.freecodecamp.org/learn/
+  https://rosettacode.org/wiki/Category:Simple
+  https://www.coderbyte.com/challenges
+  https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&beta=false
+  https://app.codility.com/   //=> all the "painless" challenges
+  https://www.freecodecamp.org/learn/
 
 Sites:
   https://edabit.com/
@@ -49,9 +55,8 @@ Sites:
   Apply to jobs on Hackerrank
   
   Front End Challenges: 
-  https://github.com/h5bp/Front-end-Developer-Interview-Questions
-  https://codier.io/
-
+    https://github.com/h5bp/Front-end-Developer-Interview-Questions
+    https://codier.io/
 
 
 https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/
