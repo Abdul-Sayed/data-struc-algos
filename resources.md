@@ -35,6 +35,8 @@ Simple Challenges:
   https://www.coderbyte.com/challenges
   https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-8&beta=false
   https://app.codility.com/   //=> all the "painless" challenges
+  refdash.com
+  triplebyte
   https://www.freecodecamp.org/learn/
 
 Sites:
